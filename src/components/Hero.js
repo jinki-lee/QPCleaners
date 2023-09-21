@@ -17,7 +17,7 @@ const Hero = () => {
                         <div className="lg:w-1/2 flex flex-col justify-center" data-aos="zoom-in" data-aos-delay="200">
                             <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900">
                             {/* We build digital solutions to help businesses scale */}
-                            Cleaning Excellence Since 1965
+                            Cleaning Excellence Since 1960
                             </h1>
                             <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">Your trusted partner for dry cleaning, alterations, repairs and many more. </div>
 
