@@ -53,7 +53,7 @@ const Services = () => {
               <div>
                 <p className="my-3 text-xl text-gray-600 font-semibold">
                   <a
-                    href="https://www.google.com/maps/place/675+Acadia+Dr+SE,+Calgary,+AB+T2J+2Y1"
+                    href="https://maps.app.goo.gl/uaCvavLoXaBAiwiR6"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="link-hover" /* Add the link-hover class here */
@@ -102,7 +102,7 @@ const Services = () => {
               <div>
                 <p className="my-3 text-xl text-gray-600 font-semibold">
                   <a
-                    href="https://www.google.com/maps/place/509+19+Ave+SW,+Calgary,+AB+T2S+0E3"
+                    href="https://maps.app.goo.gl/gyquVPeB2teihwrTA"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="link-hover" /* Add the link-hover class here */
