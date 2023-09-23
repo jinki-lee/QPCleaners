@@ -22,7 +22,8 @@ const Services = () => {
             <div className="w-24 border-b-4 border-blue-900"></div>
           </div>
           <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">
-          Seamless drop-off and pick-up across all our locations, tailored to your schedule.
+            Seamless drop-off and pick-up across all our locations, tailored to
+            your schedule.
           </h2>
         </div>
 
@@ -207,7 +208,7 @@ const Services = () => {
                   fixing zippers to patching holes, we're dedicated to
                   rejuvenating your wardrobe staples. Trust us to make your
                   clothes look as good as new, so you can wear them with
-                  confidence.{" "}
+                  confidence.
                 </p>
               </div>
             </div>
