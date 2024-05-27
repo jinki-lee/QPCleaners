@@ -119,7 +119,7 @@ const Services = () => {
                   <br></br>
                   <u>Monday - Friday</u>
                   <br></br>
-                  10:00AM - 5:30PM
+                  8:30AM - 6:00PM
                   <br></br>
                   <br></br>
                   <u>Saturday</u>
